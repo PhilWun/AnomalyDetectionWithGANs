@@ -5,7 +5,7 @@
         "train_or_predict": "train",
         "is_supervised": true,
         "training_steps": 2,
-        "quantum_circuit_type": "StandardCircuit",
+        "quantum_circuit_type": "StrongEntanglementIdentity",
         "quantum_depth": 3,
         "batch_size": 16,
         "discriminator_iterations": 5,
